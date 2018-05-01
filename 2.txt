@@ -1,0 +1,2 @@
+This is text 2.
+It's for conflict test.
