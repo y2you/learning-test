@@ -2,5 +2,9 @@ this is a text.
 Line 2.
 Line 3.
 Line 4.
+<<<<<<< HEAD
 Text 2 added for fearture1.
-Text 3 added.
+=======
+Text 2 added for feature1.
+Text 3 added for feature2.
+>>>>>>> feature2
